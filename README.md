@@ -1,35 +1,128 @@
- 👋 Hi there, I'm Kathirvelan!
+👋 Hi, I’m Kathirvelan R
 
-🎓 I'm a Mechanical Engineering student at **Rajalakshmi Institute of Technology**, with a passion for technology, coding, and continuous learning.
+🎓 Mechanical Engineering Undergraduate at Rajalakshmi Institute of Technology
+💻 Aspiring Full-Stack Web Developer | React & Java Enthusiast | Problem Solver
 
-💻 I’m an aspiring **Full Stack Web Developer** currently focusing on:
-- Frontend Development: **HTML, CSS, JavaScript**
-- Backend: Learning **Java** and exploring **Data Structures & Algorithms**
-- Working on real-world projects to enhance my coding skills.
+I’m a results-driven engineering student with a strong passion for full-stack web development and real-world problem solving. I enjoy building practical applications that combine clean UI, efficient logic, and user-focused design, while continuously improving my technical depth every day 
 
-🚀 **Current Projects:**
-- Tic Tac Toe Game (HTML, CSS, JS)
-- GPA & CGPA Calculator for college
-- Daily motivational quotes website
-- Mobile Brand Rating Analysis (Mini Project)
+KATHIR-VELAN-R-FlowCV-Resume-20…
 
-📈 **What I’m learning:**
-- Java (for LeetCode & DSA)
-- JavaScript (Frontend development)
-- Mechanical Design & Drawing (for academics)
+.
 
-💡 **Achievements:**
-- Completed 30 Days HackerRank Java Challenge
-- Completed various courses from LinkedIn Learning & Coursera
-- Building my own portfolio step by step
+🚀 Technical Skill Set
+🌐 Frontend Development
 
-✨ **Fun Fact:**  
-I believe in **“Better than yesterday”**—even small progress matters. Every day is a new chance to grow, learn, and build something meaningful.
+HTML5, CSS3, JavaScript
 
-📫 **Let’s Connect:**
-- [LinkedIn]
+Tailwind CSS
 
----
+React.js
 
-> *“Success isn’t built overnight—it’s built in the silent hours when the world sleeps, but you choose to rise.”*
+Responsive & user-centric UI design
 
+⚙️ Programming & Backend
+
+Java (DSA, OOP, LeetCode, HackerRank)
+
+TypeScript
+
+Python, C
+
+REST API basics, debugging & optimization
+
+🛠 Tools & Practices
+
+Git & GitHub
+
+Agile methodology
+
+Problem solving & logical thinking
+
+🧩 Complete Project Portfolio (GitHub)
+🔢 Academic & Utility Projects
+
+RIT GPA & CGPA Calculator – College-specific GPA system
+
+FormBuilder – Dynamic form creation app
+
+EMPIRIC-STIMULATOR – Logic-driven simulation project
+
+EDC – Concept-based engineering utility
+
+HTML-QUIZ – Interactive learning quiz
+
+🧠 JavaScript / TypeScript Projects
+
+Check-in – Productivity & daily tracking app
+
+TODOLIST / TODOLISTkk – Task management apps
+
+MoneyyMateX – Finance-oriented concept project
+
+Noninvasive – Structured TypeScript logic project
+
+K2I – JavaScript-based application
+
+🌐 Web & UI Projects
+
+Netflix-Clone – Responsive front-end clone
+
+Daily-Motivation-Quotes – Motivation content website
+
+Kstreakzz – Clean HTML-based web project
+
+React-Portfolio – Personal portfolio using React
+
+My-React-App – React practice & experimentation
+
+Portfolio – Central showcase of projects
+
+🎯 Personal / Creative Projects
+
+ViratKohliJourney – Themed storytelling website
+
+Desktop-Tutorial – Beginner-friendly tutorial site
+
+Kathirvelan19 – Profile & experimentation repo
+
+🏆 Achievements & Certifications
+
+🥇 Rank 1 – HackerRank 30 Days of Java (64 problems solved)
+
+🎓 Top 1% in NPTEL – Programming in Java (98%)
+
+📜 Certified in:
+
+HTML, CSS, JavaScript (LinkedIn Learning)
+
+Git & GitHub (LinkedIn Learning)
+
+Tailwind CSS & React.js (Coursera)
+
+Python (Great Learning) 
+
+KATHIR-VELAN-R-FlowCV-Resume-20…
+
+💼 Internship Experience
+
+Full Stack Web Developer Intern – TechnoHacks Pvt. Ltd.
+Worked on real-world applications using HTML, CSS, JavaScript, React.js, REST APIs, and Git in an Agile environment. Strengthened debugging, version control, and team collaboration skills 
+
+KATHIR-VELAN-R-FlowCV-Resume-20…
+
+.
+
+✨ Mindset & Vision
+
+“Better than yesterday.”
+I believe consistency beats talent. I focus on daily improvement, building meaningful projects, and mastering both engineering fundamentals and modern software development.
+
+📫 Connect With Me
+
+🔗 GitHub: github.com/kathirvelan19
+
+🔗 LinkedIn: linkedin.com/in/kathir-velan-b6744b30a
+
+🧠 HackerRank & LeetCode: Active problem solver
+
+🌐 Portfolio: Actively evolving
